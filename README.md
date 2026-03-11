@@ -18,4 +18,4 @@ Only notes explicitly marked with `publish: true` in their frontmatter are made 
 
 ## License
 
-The Quartz framework is licensed under [MIT](./LICENSE.txt). Note content is personal and not licensed for reuse.
+The Quartz framework is licensed under [MIT](./LICENSE.txt). Note content is personal but you're free to use for Sadaqah'e Jariah.
