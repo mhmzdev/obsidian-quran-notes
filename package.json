@@ -13,6 +13,8 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
+    "dev": "npx quartz build --serve",
+    "publish": "npx quartz build && firebase deploy --only hosting",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
